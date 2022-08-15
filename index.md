@@ -5,18 +5,22 @@ layout: default
 # Workshop Description
 TODO(instructor): fill in this section with a description of your workshop.
 
-This course covers the following aspects
-  * Topic 1, and
-  * Topic 2, ...
+This course covers the following aspects:
+  * Inductive Biases of Deep Learning Approaches
+  * Data Augmentation
+  * Generative Adversarial Networks (GANs)
+  * Maximum Likelihood Estimation
+  * Uncertainty Quantification for Deep Learning
+  * Interpretability & Explainability for Deep Learning
   
-It may be helpful to know that you can *italicize* text with single-asterisks
+<!-- It may be helpful to know that you can *italicize* text with single-asterisks
 (or alternatively, using _underscores_),
 and that you can **bold** text using double-asterisks.
 
 If you want to insert a link, use `[` in order to delimit the text that you wish
 to appear in the web-UI, and after closing the text with `]`insert the URL in a
 set of `()`, e.g. [here is a link to ICME's
-website](https://icme.stanford.edu/).
+website](https://icme.stanford.edu/). -->
 
 ## About the Instructor
 
@@ -37,11 +41,18 @@ TODO(instructor): insert a description about yourself here!
 # Workshop Materials
 
 ## Pre-workshop Checklist
-TODO(instructor): enumerate what students need to take care of before the
+The workshop assumes that you have requisite knowledge of: 
+a) Python programming 
+b) NumPy
+c) Basic understanding of Deep Learning
+d) Some experience with coding your own deep learning models
+
+For the purposes of this workshop, we assume that you have trained some deep learning models in the past. We shall be using PyTorch to illustrate the concepts of this workshop, and the coding exercises shall be in PyTorch as well. Users of Tensorflow/MxNet/Theano(RIP) are welcome to use those libraries and will receive assistance as the instructor is conversant in those.
+<!-- TODO(instructor): enumerate what students need to take care of before the
 workshop. E.g.
 
 1. Download the following tools: ...
-2. Familiarize with the schedule posted below.
+2. Familiarize with the schedule posted below. -->
 
 ## Schedule
 TODO(instructor): Make sure the dates and times are accurate below for your
