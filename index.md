@@ -4,7 +4,7 @@ layout: default
 
 # Workshop Description
 <!-- TODO(instructor): fill in this section with a description of your workshop. -->
-Through a series of rapid surveys, we will present an overview of recent topics in deep learning and machine learning with particular relevance for practitioners. Areas will include biases in deep learning, data augmentation, generative modeling, GANs, MLE, uncertainty quantification for deep learning, and finally, interpretability and explainability of deep learning models. This workshop will assume a familiarity with basic concepts from both machine learning and deep learning as taught in the introductory workshops on those topics, but it will not assume a deep statistical background. Prior exposure to neural networks is highly recommended.
+Through a series of rapid surveys, we will present an overview of recent topics in deep learning and machine learning with particular relevance for practitioners. Areas will include biases in deep learning, data augmentation, generative modeling, GANs, MLE, uncertainty quantification for deep learning, and finally, interpretability and explainability of deep learning models. This workshop will assume a familiarity with basic concepts from both machine learning and deep learning as taught in the introductory workshops on those topics, but it will not assume a deep statistical background. Check the pre-workshop checklist below for more information.
 
 This course covers the following aspects:
   * Inductive Biases of Deep Learning Approaches
@@ -35,9 +35,11 @@ sticky note with "To Do" written on it).
     ```
     /assets/img/profile.jpg
     ``` -->
+  
 ![Aashwin Mishra](/assets/img/Aashwin_Mishra_pic.png){:style="max-width:30%;"}
 
 <!-- TODO(instructor): insert a description about yourself here! -->
+Aashwin Mishra
 
 # Workshop Materials
 
