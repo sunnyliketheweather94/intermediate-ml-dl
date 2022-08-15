@@ -3,7 +3,8 @@ layout: default
 ---
 
 # Workshop Description
-TODO(instructor): fill in this section with a description of your workshop.
+<!-- TODO(instructor): fill in this section with a description of your workshop. -->
+Through a series of rapid surveys, we will present an overview of recent topics in deep learning and machine learning with particular relevance for practitioners. Areas will include biases in deep learning, data augmentation, generative modeling, GANs, MLE, uncertainty quantification for deep learning, and finally, interpretability and explainability of deep learning models. This workshop will assume a familiarity with basic concepts from both machine learning and deep learning as taught in the introductory workshops on those topics, but it will not assume a deep statistical background. Prior exposure to neural networks is highly recommended.
 
 This course covers the following aspects:
   * Inductive Biases of Deep Learning Approaches
@@ -72,11 +73,11 @@ that your course starts. Adjust time schedules within each session. -->
   - Uncertainty Quantification for Deep Learning
   - Interpretability & Explainability for Deep Learning
 
-## Additional Resources
+<!-- ## Additional Resources
 
 Here are some additional resources for various topics:
 
-TODO(instructor): fill in with pertinent resources.
+TODO(instructor): fill in with pertinent resources. -->
 
 
 
