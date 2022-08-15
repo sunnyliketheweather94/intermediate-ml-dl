@@ -24,19 +24,19 @@ website](https://icme.stanford.edu/). -->
 
 ## About the Instructor
 
-TODO(instructor): create a profile photo in two steps.
+<!-- TODO(instructor): create a profile photo in two steps. -->
 
-  * Replace "instructor-name" in the image below with your name (note: this link
+  <!-- * Replace "instructor-name" in the image below with your name (note: this link
 is only visible in the raw-text file; on the web-page itself you'll simply see a
 sticky note with "To Do" written on it).
   * Move the image you would like to appear on your website into the 
     following folder contained in your website's working directory
     ```
     /assets/img/profile.jpg
-    ```
-![instructor-name](/assets/img/profile.jpg){:style="max-width:30%;"}
+    ``` -->
+![Aashwin Mishra](/assets/img/Aashwin_Mishra_pic.png){:style="max-width:30%;"}
 
-TODO(instructor): insert a description about yourself here!
+<!-- TODO(instructor): insert a description about yourself here! -->
 
 # Workshop Materials
 
