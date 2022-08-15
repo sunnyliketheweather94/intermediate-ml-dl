@@ -18,7 +18,7 @@ This course covers the following aspects:
   
 ![Aashwin Mishra](/assets/img/Aashwin_Mishra_pic.png){:style="max-width:30%;"}
 
-Aashwin Mishra is a Project Scientist at the Machine Learning Initiative at the National Accelerator Laboratory (SLAC). His research focuses on uncertainty quantification, probabilistic modeling, interpretability/explainability, and optimization across physics applications
+Aashwin Mishra is a Project Scientist at the Machine Learning Initiative at the National Accelerator Laboratory (SLAC). His research focuses on uncertainty quantification, probabilistic modeling, interpretability/explainability, and optimization across physics applications.
 
 # Workshop Materials
 
