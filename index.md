@@ -47,7 +47,7 @@ The workshop assumes that you have requisite knowledge of:
   * Basic understanding of Deep Learning
   * Some experience with coding your own deep learning models
 
-For the purposes of this workshop, we assume that you have trained some deep learning models in the past. We shall be using PyTorch to illustrate the concepts of this workshop, and the coding exercises shall be in PyTorch as well. Users of Tensorflow/MxNet/Theano(RIP) are welcome to use those libraries and will receive assistance as the instructor is conversant in those.
+For the purposes of this workshop, we assume that you have trained some deep learning models in the past. We shall be using [PyTorch](https://pytorch.org/docs/stable/index.html) to illustrate the concepts of this workshop, and the coding exercises shall be in PyTorch as well. Users of Tensorflow/MxNet/Theano(RIP) are welcome to use those libraries and will receive assistance as the instructor is conversant in those.
 <!-- TODO(instructor): enumerate what students need to take care of before the
 workshop. E.g.
 
@@ -55,17 +55,22 @@ workshop. E.g.
 2. Familiarize with the schedule posted below. -->
 
 ## Schedule
-TODO(instructor): Make sure the dates and times are accurate below for your
+<!-- TODO(instructor): Make sure the dates and times are accurate below for your
 course. E.g. replace `?`'s with the hour (or time-of-day) 
-that your course starts. Adjust time schedules within each session.
+that your course starts. Adjust time schedules within each session. -->
 
-#### Session 1 (?:00 - ?: ?.M. PST)
-  - Topic 1 with example time-allocation.
-  - Topic 2 with example time-allocation, etc.
-  - 15 minute Q&A
-  
-#### Session 2 (?:00 - ?:00 ?.M. PST)
-  - Something similar as above.
+#### Wednesday, 17 August, 2022
+#### Session 1 (1:00 pm - 4:00 pm PT)
+  - Inductive Biases of Deep Learning Approaches
+  - Data Augmentation
+  - Generative Modeling
+  - Generative Adversarial Networks (GANs)
+
+#### Friday, 19 August, 2022
+#### Session 2 (1:00 pm - 4:00 pm PT)
+  - Deep Dive into Maximum Likelihood Estimation
+  - Uncertainty Quantification for Deep Learning
+  - Interpretability & Explainability for Deep Learning
 
 ## Additional Resources
 
