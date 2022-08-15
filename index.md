@@ -51,6 +51,7 @@ The workshop assumes that you have requisite knowledge of:
   * Some experience with coding your own deep learning models
 
 For the purposes of this workshop, we assume that you have trained some deep learning models in the past. We shall be using [PyTorch](https://pytorch.org/docs/stable/index.html) to illustrate the concepts of this workshop, and the coding exercises shall be in PyTorch as well. Users of Tensorflow/MxNet/Theano(RIP) are welcome to use those libraries and will receive assistance as the instructor is conversant in those.
+
 <!-- TODO(instructor): enumerate what students need to take care of before the
 workshop. E.g.
 
