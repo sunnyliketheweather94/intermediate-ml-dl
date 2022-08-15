@@ -46,11 +46,13 @@ For the purposes of this workshop, we assume that you have trained some deep lea
   - Uncertainty Quantification for Deep Learning
   - Interpretability & Explainability for Deep Learning
 
-<!-- ## Additional Resources
+## Additional Resources
 
 Here are some additional resources for various topics:
+  - CIFAR10 with Convolutional Neural Networks: Open in [Google Colab](https://colab.research.google.com/drive/153nTZtmHENNTx-XLWw3kl41Shd-ZvXVJ?usp=sharing)
+  - CIFAR10 with Augmentation: Open in [Google Colab](https://colab.research.google.com/drive/1Ug0STBPfwc0Q7YSBasliIJCC38y9pOVm?usp=sharing)
 
-TODO(instructor): fill in with pertinent resources. -->
+<!-- TODO(instructor): fill in with pertinent resources. -->
 
 
 
