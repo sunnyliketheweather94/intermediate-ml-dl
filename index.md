@@ -42,10 +42,10 @@ TODO(instructor): insert a description about yourself here!
 
 ## Pre-workshop Checklist
 The workshop assumes that you have requisite knowledge of: 
-a) Python programming 
-b) NumPy
-c) Basic understanding of Deep Learning
-d) Some experience with coding your own deep learning models
+  * Python programming 
+  * NumPy
+  * Basic understanding of Deep Learning
+  * Some experience with coding your own deep learning models
 
 For the purposes of this workshop, we assume that you have trained some deep learning models in the past. We shall be using PyTorch to illustrate the concepts of this workshop, and the coding exercises shall be in PyTorch as well. Users of Tensorflow/MxNet/Theano(RIP) are welcome to use those libraries and will receive assistance as the instructor is conversant in those.
 <!-- TODO(instructor): enumerate what students need to take care of before the
