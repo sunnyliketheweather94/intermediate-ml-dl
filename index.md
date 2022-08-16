@@ -32,8 +32,10 @@ The workshop assumes that you have requisite knowledge of:
 For the purposes of this workshop, we assume that you have trained some deep learning models in the past. We shall be using [PyTorch](https://pytorch.org/docs/stable/index.html) to illustrate the concepts of this workshop, and the coding exercises shall be in PyTorch as well. Users of Tensorflow/MxNet/Theano(RIP) are welcome to use those libraries and will receive assistance as the instructor is conversant in those.
 
 ## Notebooks for use during the workshop:
-  - CIFAR10 with Convolutional Neural Networks: Open in Google Colab [here](https://colab.research.google.com/drive/153nTZtmHENNTx-XLWw3kl41Shd-ZvXVJ?usp=sharing)
-  - CIFAR10 with Augmentation: Open in Google Colab [here](https://colab.research.google.com/drive/1Ug0STBPfwc0Q7YSBasliIJCC38y9pOVm?usp=sharing)
+  - CIFAR10 with Convolutional Neural Networks: Open in [Google Colab](https://colab.research.google.com/drive/153nTZtmHENNTx-XLWw3kl41Shd-ZvXVJ?usp=sharing)
+  - CIFAR10 with Augmentation: Open in [Google Colab](https://colab.research.google.com/drive/1Ug0STBPfwc0Q7YSBasliIJCC38y9pOVm?usp=sharing)
+  - Introduction to Generative Adversarial Networks (GANs): Open in [Google Colab](https://colab.research.google.com/drive/1cGtOR7EkISxIGKmSGlEpB27QOhgruUsf?usp=sharing)
+  - Deep Convolutional Generative Adversarial Networks (DCGANs): Open in [Google Colab](https://colab.research.google.com/drive/1kEAXtWU1sHapxILLRN0djEVG8KkE4cH2?usp=sharing)
 
 ## Schedule
 
