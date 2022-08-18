@@ -44,7 +44,7 @@ For the purposes of this workshop, we assume that you have trained some deep lea
   - Inductive Biases of Deep Learning Approaches
   - Data Augmentation
   - Generative Modeling
-  - Generative Adversarial Networks (GANs)
+  - Generative Adversarial Networks (GANs): [slides](assets/slides/GAN%20Training.pdf)
 
 ##### A recording of the meeting can be found [here](https://stanford.zoom.us/rec/share/TTmmd-hZZP7GoQfFS8uXI-IWlHfi1Uv3jIn3WUIv8EbRBDnC0Kmr_FH_LgqHOVqK.opSDOqkiosBs9rYQ?startTime=1660765540000).
 
