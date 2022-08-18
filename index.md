@@ -47,7 +47,7 @@ For the purposes of this workshop, we assume that you have trained some deep lea
   - Generative Modeling
   - Generative Adversarial Networks (GANs): [slides](assets/slides/GAN%20Training.pdf)
 
-### A recording of the meeting can be found [here](https://stanford.zoom.us/rec/share/TTmmd-hZZP7GoQfFS8uXI-IWlHfi1Uv3jIn3WUIv8EbRBDnC0Kmr_FH_LgqHOVqK.opSDOqkiosBs9rYQ?startTime=1660765540000).
+### A recording of Session 1 can be found [here](https://stanford.zoom.us/rec/share/TTmmd-hZZP7GoQfFS8uXI-IWlHfi1Uv3jIn3WUIv8EbRBDnC0Kmr_FH_LgqHOVqK.opSDOqkiosBs9rYQ?startTime=1660765540000).
 
 ### Friday, 19 August, 2022
 ### Session 2 (1:00 pm - 4:00 pm PT)
