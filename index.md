@@ -38,6 +38,7 @@ For the purposes of this workshop, we assume that you have trained some deep lea
   - CIFAR10 with Augmentation: Open in [Google Colab](https://colab.research.google.com/drive/1Ug0STBPfwc0Q7YSBasliIJCC38y9pOVm?usp=sharing)
   - Introduction to Generative Adversarial Networks (GANs): Open in [Google Colab](https://colab.research.google.com/drive/1cGtOR7EkISxIGKmSGlEpB27QOhgruUsf?usp=sharing)
   - Deep Convolutional Generative Adversarial Networks (DCGANs): Open in [Google Colab](https://colab.research.google.com/drive/1kEAXtWU1sHapxILLRN0djEVG8KkE4cH2?usp=sharing)
+
 #### Session 2:
   - Deep Dive into MLE: Open in [Google Colab](https://colab.research.google.com/drive/1tIMtPVh-7wFNi78NZZw1XicDq0sniPfZ?usp=sharing)
   - Dropout walk-through: Open in [Google Colab](https://colab.research.google.com/drive/1eS16GQvPih8KJCvVW6KIlA7mjNCKnWUZ?usp=sharing)
@@ -60,6 +61,7 @@ For the purposes of this workshop, we assume that you have trained some deep lea
   - Deep Dive into Maximum Likelihood Estimation
   - Uncertainty Quantification for Deep Learning
   - Interpretability & Explainability for Deep Learning
+
 #### Slides:
   - [Dropout](assets/slides/Dropout.pdf)
   - [Uncertainty Quantification for Deep Learning](assets/slides/UQForDeepLearning.pdf)
