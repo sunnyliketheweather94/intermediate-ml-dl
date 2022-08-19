@@ -58,9 +58,10 @@ For the purposes of this workshop, we assume that you have trained some deep lea
 
 ### Friday, 19 August, 2022
 ### Session 2 (1:00 pm - 4:00 pm PT)
-  - Deep Dive into Maximum Likelihood Estimation
-  - Uncertainty Quantification for Deep Learning
-  - Interpretability & Explainability for Deep Learning
+  - Deep Dive into MLE: Open in [Google Colab](https://colab.research.google.com/drive/1tIMtPVh-7wFNi78NZZw1XicDq0sniPfZ?usp=sharing)
+  - Dropout walk-through: Open in [Google Colab](https://colab.research.google.com/drive/1eS16GQvPih8KJCvVW6KIlA7mjNCKnWUZ?usp=sharing)
+  - Dropout MNIST: Open in [Google Colab](https://colab.research.google.com/drive/1uOwPXoUY8YDZU41p-Pc3GuDu0k9hz5Rm?usp=sharing)
+  - MC Dropout MNIST: Open in [Google Colab](https://colab.research.google.com/drive/1O92qsXZBcoKDtq0mAK8XBEzgsEAETVlY?usp=sharing)
 
 #### Slides:
   - [Dropout](assets/slides/Dropout.pdf)
