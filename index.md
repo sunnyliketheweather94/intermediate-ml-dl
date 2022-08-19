@@ -33,10 +33,16 @@ The workshop assumes that you have requisite knowledge of:
 For the purposes of this workshop, we assume that you have trained some deep learning models in the past. We shall be using [PyTorch](https://pytorch.org/docs/stable/index.html) to illustrate the concepts of this workshop, and the coding exercises shall be in PyTorch as well. Users of Tensorflow/MxNet/Theano(RIP) are welcome to use those libraries and will receive assistance as the instructor is conversant in those.
 
 ### Notebooks for use during the workshop:
+#### Session 1:
   - CIFAR10 with Convolutional Neural Networks: Open in [Google Colab](https://colab.research.google.com/drive/153nTZtmHENNTx-XLWw3kl41Shd-ZvXVJ?usp=sharing)
   - CIFAR10 with Augmentation: Open in [Google Colab](https://colab.research.google.com/drive/1Ug0STBPfwc0Q7YSBasliIJCC38y9pOVm?usp=sharing)
   - Introduction to Generative Adversarial Networks (GANs): Open in [Google Colab](https://colab.research.google.com/drive/1cGtOR7EkISxIGKmSGlEpB27QOhgruUsf?usp=sharing)
   - Deep Convolutional Generative Adversarial Networks (DCGANs): Open in [Google Colab](https://colab.research.google.com/drive/1kEAXtWU1sHapxILLRN0djEVG8KkE4cH2?usp=sharing)
+#### Session 2:
+  - Deep Dive into MLE: Open in [Google Colab](https://colab.research.google.com/drive/1tIMtPVh-7wFNi78NZZw1XicDq0sniPfZ?usp=sharing)
+  - Dropout walk-through: Open in [Google Colab](https://colab.research.google.com/drive/1eS16GQvPih8KJCvVW6KIlA7mjNCKnWUZ?usp=sharing)
+  - Dropout MNIST: Open in [Google Colab](https://colab.research.google.com/drive/1uOwPXoUY8YDZU41p-Pc3GuDu0k9hz5Rm?usp=sharing)
+  - MC Dropout MNIST: Open in [Google Colab](https://colab.research.google.com/drive/1O92qsXZBcoKDtq0mAK8XBEzgsEAETVlY?usp=sharing)
 
 ## Schedule
 
@@ -54,16 +60,6 @@ For the purposes of this workshop, we assume that you have trained some deep lea
   - Deep Dive into Maximum Likelihood Estimation
   - Uncertainty Quantification for Deep Learning
   - Interpretability & Explainability for Deep Learning
-
-<!-- ## Additional Resources
-
-Here are some additional resources for various topics: -->
-
-
-<!-- TODO(instructor): fill in with pertinent resources. -->
-
-
-
-
-
-
+#### Slides:
+  - [Dropout](assets/slides/Dropout.pdf)
+  - [Uncertainty Quantification for Deep Learning](assets/slides/UQForDeepLearning.pdf)
