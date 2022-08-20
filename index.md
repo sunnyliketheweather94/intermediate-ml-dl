@@ -66,3 +66,5 @@ For the purposes of this workshop, we assume that you have trained some deep lea
 #### Slides:
   - [Dropout](assets/slides/Dropout.pdf)
   - [Uncertainty Quantification for Deep Learning](assets/slides/UQForDeepLearning.pdf)
+
+### A recording of Session 2 can be found [here](https://stanford.zoom.us/rec/share/d0QA6aMBzpTSnRgE8v3fXNxTYyfBs8q5yckOekrkF-ewyb0n7PEJPx0no0HfZxok.EMke1YPRcimEaUOK?startTime=1660938417000).
